@@ -5,10 +5,17 @@
     color:black;
     text-align:left;
     text-decoration: underline;
-    border: 2px solid;
+    border:5px solid;
     background-image:url('cow2.png') ;
-    background-position:50% ;   
+    background-position:50% ;
+    box-shadow: 10px 10px 20px  blue;
+    
 }
 h2{
     color: blue;
+}
+.blog{
+    color: brown;
+    text-align: justify;
+    width: 70%;
 }
